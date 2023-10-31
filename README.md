@@ -1,6 +1,6 @@
 Hi, I'm Isaac Schatia 👋
-- I'm interested in Software Engineering, Machine Learning, and Data Synthesis.
-- I am currently working on a project involving
+- I'm interested in software engineering, machine learning, and data synthesis.
+- I am currently working on a project involving machine learning of song lyrics.
 - How to reach me: https://www.linkedin.com/in/isaac-schatia/
 
 <!--
