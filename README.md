@@ -1,6 +1,6 @@
-### Hi, I'm Isaac Schatia 👋
-### - I'm interested in Software Engineering, Machine Learning, and Data Synthesis.
-### - How to reach me: https://www.linkedin.com/in/isaac-schatia/
+Hi, I'm Isaac Schatia 👋
+- I'm interested in Software Engineering, Machine Learning, and Data Synthesis.
+- How to reach me: https://www.linkedin.com/in/isaac-schatia/
 <!--
 **ISchatia/ISchatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
